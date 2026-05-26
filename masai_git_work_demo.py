@@ -1,2 +1,5 @@
 print("Hello Leaners")
 print("Welcome to Masai GIT Work Demo")
+print("GIT Demo")
+print("A New Learner")
+print("Learn AI and ML")
